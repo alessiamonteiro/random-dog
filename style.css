@@ -1,0 +1,28 @@
+#random-dog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(86, 31, 8);
+    color: beige;
+    height: 89px;
+    width: 132px;
+    border-radius: 8px;
+    border-color: rgb(107, 35, 26);
+    margin-bottom: 32px;
+    font-size: x-large;
+    cursor: pointer;
+  }
+  
+  body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      
+    background-color: rgb(140, 140, 140);
+  }
+
+  a{
+    font-size:xx-small;
+  }
+  
